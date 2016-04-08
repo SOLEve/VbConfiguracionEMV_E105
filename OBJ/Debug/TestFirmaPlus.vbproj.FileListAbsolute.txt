@@ -1,0 +1,36 @@
+C:\Android\testfirma\bin\TestFirmaPlus.exe
+C:\Android\testfirma\bin\TestFirmaPlus.pdb
+C:\Android\testfirma\bin\TestFirmaPlus.xml
+C:\Android\testfirma\obj\Debug\TestFirmaPlus.frmFirma.resources
+C:\Android\testfirma\obj\Debug\TestFirmaPlus.frmMensaje.resources
+C:\Android\testfirma\obj\Debug\TestFirmaPlus.frmS03.resources
+C:\Android\testfirma\obj\Debug\TestFirmaPlus.frmS04.resources
+C:\Android\testfirma\obj\Debug\TestFirmaPlus.Resources.resources
+C:\Android\testfirma\obj\Debug\TestFirmaPlus.vbproj.GenerateResource.Cache
+C:\Android\testfirma\obj\Debug\TestFirmaPlus.exe
+C:\Android\testfirma\obj\Debug\TestFirmaPlus.xml
+C:\Android\testfirma\obj\Debug\TestFirmaPlus.pdb
+C:\Android\vb testfirma\obj\Debug\TestFirmaPlus.exe
+C:\Android\vb testfirma\obj\Debug\TestFirmaPlus.xml
+C:\Android\vb testfirma\obj\Debug\TestFirmaPlus.pdb
+C:\Android\vb testfirma\bin\TestFirmaPlus.exe
+C:\Android\vb testfirma\bin\TestFirmaPlus.pdb
+C:\Android\vb testfirma\bin\TestFirmaPlus.xml
+C:\Android\vb testfirma\obj\Debug\TestFirmaPlus.frmFirma.resources
+C:\Android\vb testfirma\obj\Debug\TestFirmaPlus.frmMensaje.resources
+C:\Android\vb testfirma\obj\Debug\TestFirmaPlus.frmS03.resources
+C:\Android\vb testfirma\obj\Debug\TestFirmaPlus.frmS04.resources
+C:\Android\vb testfirma\obj\Debug\TestFirmaPlus.Resources.resources
+C:\Android\vb testfirma\obj\Debug\TestFirmaPlus.vbproj.GenerateResource.Cache
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Debug\TestFirmaPlus.exe
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Debug\TestFirmaPlus.xml
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Debug\TestFirmaPlus.pdb
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\bin\TestFirmaPlus.exe
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\bin\TestFirmaPlus.pdb
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\bin\TestFirmaPlus.xml
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Debug\TestFirmaPlus.frmFirma.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Debug\TestFirmaPlus.frmMensaje.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Debug\TestFirmaPlus.frmS03.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Debug\TestFirmaPlus.frmS04.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Debug\TestFirmaPlus.Resources.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Debug\TestFirmaPlus.vbproj.GenerateResource.Cache

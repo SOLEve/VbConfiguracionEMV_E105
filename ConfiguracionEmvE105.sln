@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConfiguracionEmvE105", "ConfiguracionEmvE105.vbproj", "{B6A6D78D-781B-4CA6-90F6-22634F250F84}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorConfiguracionE105", "InstaladorConfiguracionE105\InstaladorConfiguracionE105.vdproj", "{25C46577-044C-45F9-8F41-EF138A4915B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A6D78D-781B-4CA6-90F6-22634F250F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A6D78D-781B-4CA6-90F6-22634F250F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A6D78D-781B-4CA6-90F6-22634F250F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A6D78D-781B-4CA6-90F6-22634F250F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C46577-044C-45F9-8F41-EF138A4915B5}.Debug|Any CPU.ActiveCfg = Debug
+		{25C46577-044C-45F9-8F41-EF138A4915B5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

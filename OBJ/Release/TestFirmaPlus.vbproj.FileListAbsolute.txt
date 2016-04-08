@@ -1,0 +1,40 @@
+C:\Android\New folder\bin\TestFirmaPlus.exe
+C:\Android\New folder\bin\TestFirmaPlus.xml
+C:\Android\New folder\obj\Release\TestFirmaPlus.frmFirma.resources
+C:\Android\New folder\obj\Release\TestFirmaPlus.frmMensaje.resources
+C:\Android\New folder\obj\Release\TestFirmaPlus.frmS03.resources
+C:\Android\New folder\obj\Release\TestFirmaPlus.frmS04.resources
+C:\Android\New folder\obj\Release\TestFirmaPlus.Resources.resources
+C:\Android\New folder\obj\Release\TestFirmaPlus.vbproj.GenerateResource.Cache
+C:\Android\New folder\obj\Release\TestFirmaPlus.exe
+C:\Android\New folder\obj\Release\TestFirmaPlus.xml
+C:\Android\testfirma\obj\Release\TestFirmaPlus.exe
+C:\Android\testfirma\obj\Release\TestFirmaPlus.xml
+C:\Android\testfirma\obj\Release\TestFirmaPlus.frmFirma.resources
+C:\Android\testfirma\obj\Release\TestFirmaPlus.frmMensaje.resources
+C:\Android\testfirma\obj\Release\TestFirmaPlus.frmS03.resources
+C:\Android\testfirma\obj\Release\TestFirmaPlus.frmS04.resources
+C:\Android\testfirma\obj\Release\TestFirmaPlus.Resources.resources
+C:\Android\testfirma\obj\Release\TestFirmaPlus.vbproj.GenerateResource.Cache
+C:\Android\testfirma\bin\TestFirmaPlus.exe
+C:\Android\testfirma\bin\TestFirmaPlus.xml
+C:\Android\vb testfirma\obj\Release\TestFirmaPlus.exe
+C:\Android\vb testfirma\obj\Release\TestFirmaPlus.xml
+C:\Android\vb testfirma\bin\TestFirmaPlus.exe
+C:\Android\vb testfirma\bin\TestFirmaPlus.xml
+C:\Android\vb testfirma\obj\Release\TestFirmaPlus.frmFirma.resources
+C:\Android\vb testfirma\obj\Release\TestFirmaPlus.frmMensaje.resources
+C:\Android\vb testfirma\obj\Release\TestFirmaPlus.frmS03.resources
+C:\Android\vb testfirma\obj\Release\TestFirmaPlus.frmS04.resources
+C:\Android\vb testfirma\obj\Release\TestFirmaPlus.Resources.resources
+C:\Android\vb testfirma\obj\Release\TestFirmaPlus.vbproj.GenerateResource.Cache
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\bin\TestFirmaPlus.exe
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\bin\TestFirmaPlus.xml
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Release\TestFirmaPlus.frmFirma.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Release\TestFirmaPlus.frmMensaje.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Release\TestFirmaPlus.frmS03.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Release\TestFirmaPlus.frmS04.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Release\TestFirmaPlus.Resources.resources
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Release\TestFirmaPlus.vbproj.GenerateResource.Cache
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Release\TestFirmaPlus.exe
+C:\Users\jgarcia\Desktop\proyectos VB\vb testfirma\obj\Release\TestFirmaPlus.xml
